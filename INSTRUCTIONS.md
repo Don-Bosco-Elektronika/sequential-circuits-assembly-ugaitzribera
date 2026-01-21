@@ -17,7 +17,7 @@ Muntaketa simulatu eta hurrengo zirkuitu integratuen funtzionamendua egiaztatu, 
 | **Gates** | **Imagen** |
 |-----------|------------|
 | **74175** → D |  <img width="1650" height="805" alt="74175_Txip_argazkia" src="https://github.com/user-attachments/assets/391581a9-eca7-4c55-962f-6e5c1e1d9d51" />|
-| **7476** → JK | ![NAME?](imagen_not.png) |
+| **7476** → JK |  <img width="1608" height="762" alt="7476 Txip argazkia" src="https://github.com/user-attachments/assets/f050c3f7-b42a-46e4-9c38-ff89106621a8" />|
 | **74164** → D | ![NAME?](imagen_nand.png) |
 | **74165** → D | ![NAME?](imagen_not.png) |
 
